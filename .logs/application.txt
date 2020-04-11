@@ -1,0 +1,187 @@
+2020-04-10 11:05:36,738  INFO [main] SharedSD:21 - ******************************
+2020-04-10 11:05:36,781  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 11:06:14,229  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 11:06:14,232  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 11:06:14,233  INFO [main] SharedSD:42 - ********************************
+2020-04-10 11:06:14,738  INFO [main] SharedSD:21 - ******************************
+2020-04-10 11:06:14,739  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 11:06:25,212  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 11:06:25,218  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 11:06:25,223  INFO [main] SharedSD:42 - ********************************
+2020-04-10 11:12:28,254  INFO [main] SharedSD:21 - ******************************
+2020-04-10 11:12:28,293  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 11:12:58,611  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 11:12:58,612  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 11:12:58,614  INFO [main] SharedSD:42 - ********************************
+2020-04-10 11:12:58,931  INFO [main] SharedSD:21 - ******************************
+2020-04-10 11:12:58,932  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 11:13:08,326  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 11:13:08,326  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 11:13:08,328  INFO [main] SharedSD:42 - ********************************
+2020-04-10 11:29:05,364  INFO [main] SharedSD:21 - ******************************
+2020-04-10 11:29:05,370  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 11:29:20,290  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 11:29:20,291  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 11:29:20,293  INFO [main] SharedSD:42 - ********************************
+2020-04-10 11:29:20,480  INFO [main] SharedSD:21 - ******************************
+2020-04-10 11:29:20,480  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 11:29:25,228  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 11:29:25,229  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 11:29:25,230  INFO [main] SharedSD:42 - ********************************
+2020-04-10 11:38:01,489  INFO [main] SharedSD:21 - ******************************
+2020-04-10 11:38:01,494  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 11:38:16,573  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 11:38:16,574  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 11:38:16,574  INFO [main] SharedSD:42 - ********************************
+2020-04-10 11:38:16,775  INFO [main] SharedSD:21 - ******************************
+2020-04-10 11:38:16,776  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 11:38:21,183  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 11:38:21,183  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 11:38:21,183  INFO [main] SharedSD:42 - ********************************
+2020-04-10 17:12:00,404  INFO [main] SharedSD:21 - ******************************
+2020-04-10 17:12:00,427  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 17:12:17,447 DEBUG [main] BooleanConverter:336 - Setting default value: false
+2020-04-10 17:12:17,457 DEBUG [main] BooleanConverter:127 - Converting 'Boolean' value 'false' to type 'Boolean'
+2020-04-10 17:12:17,459 DEBUG [main] BooleanConverter:149 -     No conversion required, value is already a Boolean
+2020-04-10 17:12:17,507 DEBUG [main] ByteConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,517 DEBUG [main] ByteConverter:127 - Converting 'Integer' value '0' to type 'Byte'
+2020-04-10 17:12:17,520 DEBUG [main] ByteConverter:158 -     Converted to Byte value '0'
+2020-04-10 17:12:17,523 DEBUG [main] CharacterConverter:336 - Setting default value:  
+2020-04-10 17:12:17,525 DEBUG [main] CharacterConverter:127 - Converting 'Character' value ' ' to type 'Character'
+2020-04-10 17:12:17,526 DEBUG [main] CharacterConverter:149 -     No conversion required, value is already a Character
+2020-04-10 17:12:17,558 DEBUG [main] DoubleConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,559 DEBUG [main] DoubleConverter:127 - Converting 'Integer' value '0' to type 'Double'
+2020-04-10 17:12:17,560 DEBUG [main] DoubleConverter:158 -     Converted to Double value '0.0'
+2020-04-10 17:12:17,571 DEBUG [main] FloatConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,572 DEBUG [main] FloatConverter:127 - Converting 'Integer' value '0' to type 'Float'
+2020-04-10 17:12:17,594 DEBUG [main] FloatConverter:158 -     Converted to Float value '0.0'
+2020-04-10 17:12:17,600 DEBUG [main] IntegerConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,603 DEBUG [main] IntegerConverter:127 - Converting 'Integer' value '0' to type 'Integer'
+2020-04-10 17:12:17,604 DEBUG [main] IntegerConverter:149 -     No conversion required, value is already a Integer
+2020-04-10 17:12:17,609 DEBUG [main] LongConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,612 DEBUG [main] LongConverter:127 - Converting 'Integer' value '0' to type 'Long'
+2020-04-10 17:12:17,624 DEBUG [main] LongConverter:158 -     Converted to Long value '0'
+2020-04-10 17:12:17,629 DEBUG [main] ShortConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,641 DEBUG [main] ShortConverter:127 - Converting 'Integer' value '0' to type 'Short'
+2020-04-10 17:12:17,642 DEBUG [main] ShortConverter:158 -     Converted to Short value '0'
+2020-04-10 17:12:17,645 DEBUG [main] BigDecimalConverter:336 - Setting default value: 0.0
+2020-04-10 17:12:17,646 DEBUG [main] BigDecimalConverter:127 - Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2020-04-10 17:12:17,647 DEBUG [main] BigDecimalConverter:149 -     No conversion required, value is already a BigDecimal
+2020-04-10 17:12:17,798 DEBUG [main] BigIntegerConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,799 DEBUG [main] BigIntegerConverter:127 - Converting 'BigInteger' value '0' to type 'BigInteger'
+2020-04-10 17:12:17,806 DEBUG [main] BigIntegerConverter:149 -     No conversion required, value is already a BigInteger
+2020-04-10 17:12:17,807 DEBUG [main] BooleanConverter:336 - Setting default value: false
+2020-04-10 17:12:17,807 DEBUG [main] BooleanConverter:127 - Converting 'Boolean' value 'false' to type 'Boolean'
+2020-04-10 17:12:17,808 DEBUG [main] BooleanConverter:149 -     No conversion required, value is already a Boolean
+2020-04-10 17:12:17,809 DEBUG [main] ByteConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,810 DEBUG [main] ByteConverter:127 - Converting 'Integer' value '0' to type 'Byte'
+2020-04-10 17:12:17,812 DEBUG [main] ByteConverter:158 -     Converted to Byte value '0'
+2020-04-10 17:12:17,825 DEBUG [main] CharacterConverter:336 - Setting default value:  
+2020-04-10 17:12:17,826 DEBUG [main] CharacterConverter:127 - Converting 'Character' value ' ' to type 'Character'
+2020-04-10 17:12:17,826 DEBUG [main] CharacterConverter:149 -     No conversion required, value is already a Character
+2020-04-10 17:12:17,828 DEBUG [main] DoubleConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,829 DEBUG [main] DoubleConverter:127 - Converting 'Integer' value '0' to type 'Double'
+2020-04-10 17:12:17,865 DEBUG [main] DoubleConverter:158 -     Converted to Double value '0.0'
+2020-04-10 17:12:17,874 DEBUG [main] FloatConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,876 DEBUG [main] FloatConverter:127 - Converting 'Integer' value '0' to type 'Float'
+2020-04-10 17:12:17,892 DEBUG [main] FloatConverter:158 -     Converted to Float value '0.0'
+2020-04-10 17:12:17,894 DEBUG [main] IntegerConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,894 DEBUG [main] IntegerConverter:127 - Converting 'Integer' value '0' to type 'Integer'
+2020-04-10 17:12:17,895 DEBUG [main] IntegerConverter:149 -     No conversion required, value is already a Integer
+2020-04-10 17:12:17,895 DEBUG [main] LongConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,940 DEBUG [main] LongConverter:127 - Converting 'Integer' value '0' to type 'Long'
+2020-04-10 17:12:17,945 DEBUG [main] LongConverter:158 -     Converted to Long value '0'
+2020-04-10 17:12:17,951 DEBUG [main] ShortConverter:336 - Setting default value: 0
+2020-04-10 17:12:17,956 DEBUG [main] ShortConverter:127 - Converting 'Integer' value '0' to type 'Short'
+2020-04-10 17:12:17,961 DEBUG [main] ShortConverter:158 -     Converted to Short value '0'
+2020-04-10 17:12:17,977 DEBUG [main] StringConverter:336 - Setting default value: 
+2020-04-10 17:12:17,977 DEBUG [main] StringConverter:127 - Converting 'String' value '' to type 'String'
+2020-04-10 17:12:18,126 DEBUG [main] ArrayConverter:336 - Setting default value: [Z@6d6c4775
+2020-04-10 17:12:18,127 DEBUG [main] ArrayConverter:127 - Converting 'boolean[]' value '[Z@6d6c4775' to type 'boolean[]'
+2020-04-10 17:12:18,128 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a boolean[]
+2020-04-10 17:12:18,128 DEBUG [main] ArrayConverter:336 - Setting default value: [B@344d6bb3
+2020-04-10 17:12:18,129 DEBUG [main] ArrayConverter:127 - Converting 'byte[]' value '[B@344d6bb3' to type 'byte[]'
+2020-04-10 17:12:18,144 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a byte[]
+2020-04-10 17:12:18,146 DEBUG [main] ArrayConverter:336 - Setting default value: [C@2a3ced3d
+2020-04-10 17:12:18,187 DEBUG [main] ArrayConverter:127 - Converting 'char[]' value '[C@2a3ced3d' to type 'char[]'
+2020-04-10 17:12:18,188 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a char[]
+2020-04-10 17:12:18,188 DEBUG [main] ArrayConverter:336 - Setting default value: [D@7ab5b01a
+2020-04-10 17:12:18,189 DEBUG [main] ArrayConverter:127 - Converting 'double[]' value '[D@7ab5b01a' to type 'double[]'
+2020-04-10 17:12:18,190 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a double[]
+2020-04-10 17:12:18,191 DEBUG [main] ArrayConverter:336 - Setting default value: [F@22112da1
+2020-04-10 17:12:18,191 DEBUG [main] ArrayConverter:127 - Converting 'float[]' value '[F@22112da1' to type 'float[]'
+2020-04-10 17:12:18,192 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a float[]
+2020-04-10 17:12:18,192 DEBUG [main] ArrayConverter:336 - Setting default value: [I@38eb2140
+2020-04-10 17:12:18,192 DEBUG [main] ArrayConverter:127 - Converting 'int[]' value '[I@38eb2140' to type 'int[]'
+2020-04-10 17:12:18,194 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a int[]
+2020-04-10 17:12:18,195 DEBUG [main] ArrayConverter:336 - Setting default value: [J@4f06006d
+2020-04-10 17:12:18,196 DEBUG [main] ArrayConverter:127 - Converting 'long[]' value '[J@4f06006d' to type 'long[]'
+2020-04-10 17:12:18,196 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a long[]
+2020-04-10 17:12:18,197 DEBUG [main] ArrayConverter:336 - Setting default value: [S@40b2aae9
+2020-04-10 17:12:18,212 DEBUG [main] ArrayConverter:127 - Converting 'short[]' value '[S@40b2aae9' to type 'short[]'
+2020-04-10 17:12:18,226 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a short[]
+2020-04-10 17:12:18,275 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.math.BigDecimal;@5ec80bbd
+2020-04-10 17:12:18,276 DEBUG [main] ArrayConverter:127 - Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@5ec80bbd' to type 'BigDecimal[]'
+2020-04-10 17:12:18,276 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a BigDecimal[]
+2020-04-10 17:12:18,277 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.math.BigInteger;@65c75870
+2020-04-10 17:12:18,277 DEBUG [main] ArrayConverter:127 - Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@65c75870' to type 'BigInteger[]'
+2020-04-10 17:12:18,277 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a BigInteger[]
+2020-04-10 17:12:18,278 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Boolean;@49588c70
+2020-04-10 17:12:18,278 DEBUG [main] ArrayConverter:127 - Converting 'Boolean[]' value '[Ljava.lang.Boolean;@49588c70' to type 'Boolean[]'
+2020-04-10 17:12:18,305 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Boolean[]
+2020-04-10 17:12:18,305 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Byte;@1cb58c8a
+2020-04-10 17:12:18,306 DEBUG [main] ArrayConverter:127 - Converting 'Byte[]' value '[Ljava.lang.Byte;@1cb58c8a' to type 'Byte[]'
+2020-04-10 17:12:18,308 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Byte[]
+2020-04-10 17:12:18,309 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Character;@591e27f1
+2020-04-10 17:12:18,318 DEBUG [main] ArrayConverter:127 - Converting 'Character[]' value '[Ljava.lang.Character;@591e27f1' to type 'Character[]'
+2020-04-10 17:12:18,319 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Character[]
+2020-04-10 17:12:18,323 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Double;@5862a07b
+2020-04-10 17:12:18,358 DEBUG [main] ArrayConverter:127 - Converting 'Double[]' value '[Ljava.lang.Double;@5862a07b' to type 'Double[]'
+2020-04-10 17:12:18,376 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Double[]
+2020-04-10 17:12:18,378 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Float;@64078e6a
+2020-04-10 17:12:18,380 DEBUG [main] ArrayConverter:127 - Converting 'Float[]' value '[Ljava.lang.Float;@64078e6a' to type 'Float[]'
+2020-04-10 17:12:18,390 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Float[]
+2020-04-10 17:12:18,392 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Integer;@5c5cd332
+2020-04-10 17:12:18,407 DEBUG [main] ArrayConverter:127 - Converting 'Integer[]' value '[Ljava.lang.Integer;@5c5cd332' to type 'Integer[]'
+2020-04-10 17:12:18,409 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Integer[]
+2020-04-10 17:12:18,410 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Long;@380f9c1d
+2020-04-10 17:12:18,424 DEBUG [main] ArrayConverter:127 - Converting 'Long[]' value '[Ljava.lang.Long;@380f9c1d' to type 'Long[]'
+2020-04-10 17:12:18,426 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Long[]
+2020-04-10 17:12:18,440 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Short;@155788a7
+2020-04-10 17:12:18,444 DEBUG [main] ArrayConverter:127 - Converting 'Short[]' value '[Ljava.lang.Short;@155788a7' to type 'Short[]'
+2020-04-10 17:12:18,451 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Short[]
+2020-04-10 17:12:18,454 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.String;@28f33810
+2020-04-10 17:12:18,456 DEBUG [main] ArrayConverter:127 - Converting 'String[]' value '[Ljava.lang.String;@28f33810' to type 'String[]'
+2020-04-10 17:12:18,457 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a String[]
+2020-04-10 17:12:18,471 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Class;@6e56f5d4
+2020-04-10 17:12:18,471 DEBUG [main] ArrayConverter:127 - Converting 'Class[]' value '[Ljava.lang.Class;@6e56f5d4' to type 'Class[]'
+2020-04-10 17:12:18,472 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Class[]
+2020-04-10 17:12:18,472 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.util.Date;@4750e942
+2020-04-10 17:12:18,473 DEBUG [main] ArrayConverter:127 - Converting 'Date[]' value '[Ljava.util.Date;@4750e942' to type 'Date[]'
+2020-04-10 17:12:18,474 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Date[]
+2020-04-10 17:12:18,474 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.util.Calendar;@5bebdfcb
+2020-04-10 17:12:18,475 DEBUG [main] ArrayConverter:127 - Converting 'Calendar[]' value '[Ljava.util.Calendar;@5bebdfcb' to type 'Calendar[]'
+2020-04-10 17:12:18,475 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Calendar[]
+2020-04-10 17:12:18,476 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.io.File;@42908ad5
+2020-04-10 17:12:18,476 DEBUG [main] ArrayConverter:127 - Converting 'java.io.File[]' value '[Ljava.io.File;@42908ad5' to type 'java.io.File[]'
+2020-04-10 17:12:18,477 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.io.File[]
+2020-04-10 17:12:18,478 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.sql.Date;@22e7ec5f
+2020-04-10 17:12:18,478 DEBUG [main] ArrayConverter:127 - Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@22e7ec5f' to type 'java.sql.Date[]'
+2020-04-10 17:12:18,478 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.sql.Date[]
+2020-04-10 17:12:18,485 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.sql.Time;@35355074
+2020-04-10 17:12:18,488 DEBUG [main] ArrayConverter:127 - Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@35355074' to type 'java.sql.Time[]'
+2020-04-10 17:12:18,489 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.sql.Time[]
+2020-04-10 17:12:18,489 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.sql.Timestamp;@3411e0d7
+2020-04-10 17:12:18,490 DEBUG [main] ArrayConverter:127 - Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@3411e0d7' to type 'java.sql.Timestamp[]'
+2020-04-10 17:12:18,490 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.sql.Timestamp[]
+2020-04-10 17:12:18,491 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.net.URL;@75044df3
+2020-04-10 17:12:18,492 DEBUG [main] ArrayConverter:127 - Converting 'java.net.URL[]' value '[Ljava.net.URL;@75044df3' to type 'java.net.URL[]'
+2020-04-10 17:12:18,556 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.net.URL[]
+2020-04-10 17:12:28,325  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 17:12:28,327  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 17:12:28,327  INFO [main] SharedSD:42 - ********************************
+2020-04-10 17:12:30,011  INFO [main] SharedSD:21 - ******************************
+2020-04-10 17:12:30,012  INFO [main] SharedSD:22 - Test setup!
+2020-04-10 17:12:38,967  INFO [main] SharedSD:39 - Cleanup!
+2020-04-10 17:12:38,967  INFO [main] SharedSD:40 - Test completed!
+2020-04-10 17:12:38,967  INFO [main] SharedSD:42 - ********************************

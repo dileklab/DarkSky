@@ -1,0 +1,190 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2123218082,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on DarkSky HomePage",
+            "match": {
+              "location": "DarkSkyHomeSD.verifyHomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 14833378311,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SharedSD.setup()"
+            }
+          }
+        ],
+        "line": 9,
+        "name": "Verify timeline is displayed in correct format",
+        "description": "",
+        "id": "verify-darksky;verify-timeline-is-displayed-in-correct-format",
+        "after": [
+          {
+            "result": {
+              "duration": 376205705,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SharedSD.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5737456991,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I entered Chicago in search box",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Chicago",
+                  "offset": 10
+                }
+              ],
+              "location": "DarkSkyHomeSD.verifyChosenLocation(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3714308351,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I verify timeline is displayed with two hours incremented",
+            "match": {
+              "location": "DarkSkyHomeSD.verifyTimelineFormat()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@timelineformat"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 1020089681,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on DarkSky HomePage",
+            "match": {
+              "location": "DarkSkyHomeSD.verifyHomePage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7059852752,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SharedSD.setup()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Verify individual day temp timeline",
+        "description": "",
+        "id": "verify-darksky;verify-individual-day-temp-timeline",
+        "after": [
+          {
+            "result": {
+              "duration": 310489439,
+              "status": "passed"
+            },
+            "match": {
+              "location": "SharedSD.teardown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 129167043,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I expand today\u0027s timeline",
+            "match": {
+              "location": "DarkSkyHomeSD.expandToday()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 719338257,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I verify lowest and highest temp is displayed correctly",
+            "match": {
+              "location": "DarkSkyHomeSD.verifyTempValues()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 13,
+            "name": "@temptimeline"
+          }
+        ]
+      }
+    ],
+    "name": "Verify darksky",
+    "description": "",
+    "id": "verify-darksky",
+    "keyword": "Feature",
+    "uri": "DarkSky.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@web"
+      }
+    ]
+  }
+]

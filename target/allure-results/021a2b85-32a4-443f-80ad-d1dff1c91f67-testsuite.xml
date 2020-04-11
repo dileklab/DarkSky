@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1586553137135" stop="1586553148708" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify timeline is displayed in correct format</name>
+    <title>Verify timeline is displayed in correct format</title>
+    <test-cases>
+        <test-case start="1586553137175" stop="1586553137190" status="passed">
+            <name>Given I am on DarkSky HomePage</name>
+            <title>Given I am on DarkSky HomePage</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dileks-MBP.home"/>
+                <label name="thread" value="1343@Dileks-MBP.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586553144596" stop="1586553144597" status="passed">
+            <name>When I entered Chicago in search box</name>
+            <title>When I entered Chicago in search box</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dileks-MBP.home"/>
+                <label name="thread" value="1343@Dileks-MBP.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586553148322" stop="1586553148323" status="passed">
+            <name>Then I verify timeline is displayed with two hours incremented</name>
+            <title>Then I verify timeline is displayed with two hours incremented</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dileks-MBP.home"/>
+                <label name="thread" value="1343@Dileks-MBP.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify timeline is displayed in correct format"/>
+        <label name="feature" value="Verify darksky"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

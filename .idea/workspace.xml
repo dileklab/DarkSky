@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e4eab98-992c-43bf-a477-b458e0a1eb00" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJh4mqsBHC3mSmFgJeSeIgrM6l" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DarkSky_Dilek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runnerTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runnerTest" />
+      <option name="MAIN_CLASS_NAME" value="runnerTest.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e4eab98-992c-43bf-a477-b458e0a1eb00" name="Default Changelist" comment="" />
+      <created>1586459414971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586459414971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586532872952">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="319" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.728@0.23.1280.728" timestamp="1586532872952" />
+    <state width="1238" height="186" key="GridCell.Tab.0.bottom" timestamp="1586559762766">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1586469181871" />
+    <state width="1238" height="187" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1586532640175" />
+    <state width="1238" height="187" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1586532541622" />
+    <state width="1238" height="186" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1586553201662" />
+    <state width="1238" height="186" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1586559762766" />
+    <state width="1238" height="186" key="GridCell.Tab.0.center" timestamp="1586559762765">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1586469181869" />
+    <state width="1238" height="187" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1586532640175" />
+    <state width="1238" height="187" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1586532541621" />
+    <state width="1238" height="186" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1586553201661" />
+    <state width="1238" height="186" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1586559762765" />
+    <state width="1238" height="186" key="GridCell.Tab.0.left" timestamp="1586559762765">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1586469181869" />
+    <state width="1238" height="187" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1586532640174" />
+    <state width="1238" height="187" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1586532541621" />
+    <state width="1238" height="186" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1586553201660" />
+    <state width="1238" height="186" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1586559762765" />
+    <state width="1238" height="186" key="GridCell.Tab.0.right" timestamp="1586559762765">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1586469181870" />
+    <state width="1238" height="187" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1586532640175" />
+    <state width="1238" height="187" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1586532541622" />
+    <state width="1238" height="186" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1586553201662" />
+    <state width="1238" height="186" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1586559762765" />
+    <state x="305" y="174" width="670" height="675" key="run.anything.popup" timestamp="1586553086918">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="305" y="174" width="670" height="675" key="run.anything.popup/0.23.1280.730@0.23.1280.730" timestamp="1586553086918" />
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1586553158102" stop="1586553159281" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify individual day temp timeline</name>
+    <title>Verify individual day temp timeline</title>
+    <test-cases>
+        <test-case start="1586553158103" stop="1586553158103" status="passed">
+            <name>Given I am on DarkSky HomePage</name>
+            <title>Given I am on DarkSky HomePage</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dileks-MBP.home"/>
+                <label name="thread" value="1343@Dileks-MBP.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586553158241" stop="1586553158241" status="passed">
+            <name>When I expand today's timeline</name>
+            <title>When I expand today's timeline</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dileks-MBP.home"/>
+                <label name="thread" value="1343@Dileks-MBP.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1586553158965" stop="1586553158965" status="passed">
+            <name>Then I verify lowest and highest temp is displayed correctly</name>
+            <title>Then I verify lowest and highest temp is displayed correctly</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="Dileks-MBP.home"/>
+                <label name="thread" value="1343@Dileks-MBP.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify individual day temp timeline"/>
+        <label name="feature" value="Verify darksky"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
